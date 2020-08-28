@@ -23,8 +23,6 @@ export default function Home() {
             <h3>Projects &rarr;</h3>
             <p>Data Science Projects done by me: </p>
         </a>
-            
-        </div>
       </main>
 
       <footer className={styles.footer}>
