@@ -19,8 +19,7 @@ export default function Home() {
           <code className={styles.code}>https://rajnish-aiml.com</code> !
         </p>
 
-          <a 
-            href="https://nextjs.org/learn" 
+          <a href="https://nextjs.org/learn" 
             className={styles.card}
            >
             <h3>Projects &rarr;</h3>
