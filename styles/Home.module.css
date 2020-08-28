@@ -5,6 +5,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-image: url('https://github.com/rajnish-13547/nextjs/blob/master/a2.jpg')
 }
 
 .main {
